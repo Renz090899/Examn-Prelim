@@ -1,0 +1,97 @@
+body{
+	background-color: #a9d7e9;
+	text-align: center;
+}
+label{
+	text-align: right;
+	width: 75px;
+	padding-right: 20px;
+}
+br{
+	clear: left;
+}
+input[type=text]{
+	width: 22%;
+  	padding: 10px 10px;
+  	margin: 8px 0;
+  	display: inline-block;
+  	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+}
+input[type=email]{
+	width: 22%;
+  	padding: 10px 10px;
+  	margin: 8px 0;
+  	display: inline-block;
+  	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+}
+input[type=number]{
+	width: 22%;
+  	padding: 10px 10px;
+  	margin: 8px 0;
+  	display: inline-block;
+  	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+}
+select{
+	width: 20%;
+  	padding: 10px 10px;
+  	margin: 8px 0;
+  	display: inline-block;
+  	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+}
+input[type=textarea]{
+	width: 20%;
+  	padding: 10px 10px;
+  	margin: 8px 0;
+  	display: inline-block;
+  	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+
+  	display: inline-block;
+}
+
+button{
+	background-color: #6ba2ce;
+	color: white;
+	border-radius: 5px;
+	width: 6%;
+	height: 8%;
+}
+button:hover{
+	background-color: lightblue;
+}
+
+.container{
+	border-radius: 25px;
+	border: 2px solid white;
+	background-color: #f3f3f3;
+	padding: 20px;
+	width: 70%;
+	height: auto;
+	margin: auto;
+}
+.fifthbox{
+	display: inline;
+	text-align: center;
+}
+.rbtns{
+	display: inline;
+	text-align: center;
+
+}
+.sixthvox{
+	display: inline;
+	text-align: center;
+}
+.chckbtns{
+	display: inline;
+	text-align: center;
+}
